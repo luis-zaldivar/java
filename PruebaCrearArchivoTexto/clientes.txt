@@ -1,0 +1,2 @@
+150 gorras nike 234.00 2
+300 playeras puma 987.00 3
